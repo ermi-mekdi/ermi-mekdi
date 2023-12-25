@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ermi-mekdi
+- 👋 Hi, I’m Ermi
 - 👀 I’m interested in javascript and angular 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
