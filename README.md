@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ermi
-- 👀 I’m interested in javascript and angular 
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in javascript and React
+- 🌱 I’m currently learning javascript en React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
